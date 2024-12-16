@@ -1,0 +1,91 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node Modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build and Output Directories
+dist/
+build/
+coverage/
+dist
+dist-ssr
+*.local
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Jest Cache
+.jest/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Optional npm Cache Directory
+.npm/
+
+# Generated Reports
+*.log
+*.out
+*.pid
+
+# Coverage Reports
+coverage/
+
+# Miscellaneous
+*.lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# ESLint and Prettier
+.eslintcache
+.prettier-cache
+
+# Temporary Files
+tmp/
+temp/
+
+# Specific to React Projects
+public/*.map
+*.chunk.js
+
+# Custom Cache Files (if any)
+.cache/
